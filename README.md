@@ -9,7 +9,7 @@ I am seeking a New Grad opportunity starting in May 2024. If you consider that m
 
 - 👯 I’m looking to collaborate on **Generative AI projects**
 
-- 👨‍💻 All of my projects are available at [shradac.github.io/](shradac.github.io/)
+- 👨‍💻 All of my projects are available at [shradac.github.io/](https://shradac.github.io/)
 
 - 📫 How to reach me **chellasami.s@northeastern.edu**
 
