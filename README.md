@@ -11,7 +11,7 @@ I am seeking a New Grad opportunity starting in May 2024. If you consider that m
 
 - 👨‍💻 All of my projects are available at [shradac.github.io/](https://shradac.github.io/)
 
-- 📫 How to reach me **chellasami.s@northeastern.edu**
+- 📫 How to reach me **shradac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
