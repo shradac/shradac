@@ -2,7 +2,7 @@
 
 <p>Hello! I'm a passionate and highly motivated Computer Science graduate currently pursuing a Master's degree at Northeastern University. My journey in the world of technology has been filled with exciting projects and challenging opportunities that have honed my skills in Python, Machine learning and Web Development. I thrive on solving complex problems and applying cutting-edge technologies to real-world applications. I'm eager to collaborate, learn, and make a positive impact in the field of computer science. Let's connect and explore potential opportunities together!
 
-I am seeking a New Grad opportunity starting in May 2024. If you consider that my background is a right fit for your organization’s needs, do reach out to me via LinkedIn or chellasami.s@northeastern.edu</p>
+I am seeking a New Grad opportunity starting in May 2024. If you consider that my background is a right fit for your organization’s needs, do reach out to me via LinkedIn or shradac@gmail.com</p>
 <h3 align="center">A passionate Data Scientist/ML Engineer</h3>
 
 - 🔭 I’m currently working on **LLM Multimodal Retrieval and Generation System**
